@@ -1,0 +1,46 @@
+.form-container {
+    background-color: #c371ff;
+    padding: 40px;
+    margin-bottom: 100px;
+}
+
+.custom-card {
+    margin-bottom: 30px;
+    height: 200px;
+}
+
+.custom-image {
+    width: 40px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.user-image {
+    width: 50px !important;
+    height: 50px;
+    border-radius: 50% !important;
+    float: left;
+}
+
+.user-data {
+    text-align: right;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.video-minutes {
+    text-align: right;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.star-container {
+    margin-top: 10px
+}
