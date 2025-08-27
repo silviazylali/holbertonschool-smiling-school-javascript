@@ -1,0 +1,17 @@
+.section-testimonial {
+    background-color: #c271ff !important;
+    height: 450px;
+}
+
+.testimonial-image-container {
+    flex: 0 0 180px;
+    /* fixed width */
+    display: flex;
+    justify-content: start;
+}
+
+.testimonial-text-container {
+    flex: 1;
+    /* take remaining space */
+    justify-content: end;
+}
